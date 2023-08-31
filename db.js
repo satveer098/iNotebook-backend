@@ -1,6 +1,6 @@
 const mongoose=require('mongoose');
 
-const mongoURI = `mongodb+srv://${process.env.MONGO_USER}:${process.env.MONGO_PASSWORD}@cluster0.zjrpq1l.mongodb.net/${process.env.MONGO_DEFAULT_DATABASE}`;
+const mongoURI = "mongodb+srv://yadavaditya183:MVxcqgK38sIAVXNX@cluster0.zjrpq1l.mongodb.net/inotebook";
 
 
 const connectToMongo = ()=>{
