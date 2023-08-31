@@ -1,0 +1,7 @@
+{
+    "env":{
+        "process.env.MONGO_USER":"yadavaditya183",
+        "process.env.MONGO_PASSWORD":"MVxcqgK38sIAVXNX",
+        "process.env.MONGO_DEFAULT_DATABASE":"inotebook"
+    }
+}
